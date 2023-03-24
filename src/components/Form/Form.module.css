@@ -1,0 +1,22 @@
+.input {
+  width: 200px;
+  height: 25px;
+  border-radius: 5px;
+}
+
+.btn {
+  height: 28px;
+  width: 150px;
+  background-color: rgb(226, 217, 217);
+  margin-left: 20px;
+  border-color: rgb(226, 217, 217);
+  box-shadow: 5px 5px rgb(141, 137, 137);
+  border-radius: 5px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.form {
+  display: flex;
+  align-content: center;
+}
